@@ -21,7 +21,7 @@ The architecture of the project is designed to handle real-time stock market dat
 ### Dataset Used
 This project is designed to work with any stock market dataset. You can easily integrate your preferred dataset into the system to perform real-time data engineering tasks.
 
-You can download the dataset from: 
+You can download the dataset from: https://github.com/hsjaggi/kafka-stock-market-data-engineering-project/blob/main/data/indexProcessed.csv
 
 ### Getting Started
 Follow these steps to get started with the project:
