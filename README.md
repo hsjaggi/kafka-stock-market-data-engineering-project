@@ -32,17 +32,13 @@ Follow these steps to get started with the project:
 2. Set up an AWS account and configure your credentials.
 3. Install Apache Kafka and set up the required topics.
 4. Clone the Repository: <br>
-    git clone https://github.com/your-username/stock-market-kafka-project.git <br>
-    cd stock-market-kafka-project
+    "git clone https://github.com/your-username/kafka-stock-market-data-engineering-project.git" <br>
 
-5. Install Dependencies: <br>
-    pip install -r requirements.txt
-
-6. Configure AWS: <br>
+5. Configure AWS: <br>
     Update the AWS configuration with your credentials in the project files.
 
-7. Run the Project: <br>
+6. Run the Project: <br>
     Execute the main Python script to start the real-time data processing pipeline.
 
-8. Explore the Results: <br>
+7. Explore the Results: <br>
     Utilize Athena and other tools to query and analyze the processed data.
